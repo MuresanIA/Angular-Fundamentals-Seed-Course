@@ -1,0 +1,39 @@
+{
+  "passengers": [
+    {
+      "fullname": "test",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 149074000000
+    },
+    {
+      "fullname": "John Doe",
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "hand-hold",
+      "checkInDate": 1633076204724
+    },
+    {
+      "id": 3,
+      "fullname": "Vlad",
+      "checkedIn": false,
+      "checkInDate": 149074000000,
+      "baggage": ""
+    },
+    {
+      "fullname": "Paul",
+      "id": 4,
+      "checkedIn": true,
+      "baggage": "hold-only",
+      "checkInDate": 149054000000
+    },
+    {
+      "fullname": "Vlad Tepes",
+      "id": 5,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkInDate": 1633076195032
+    }
+  ]
+}
